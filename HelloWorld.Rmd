@@ -1,5 +1,5 @@
 ---
-title: "HelloWorld"
+title: "HelloWorld.md"
 author: "Chan Nyein Myat Aung"
 date: "2023-10-05"
 output: pdf_document
